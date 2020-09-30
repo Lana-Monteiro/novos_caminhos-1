@@ -1,12 +1,12 @@
 {
-    "name": "iuryprof/ifto",
+    "name": "Lana Monteiro",
     "description": "Curso de Programador WEB",
     "minimum-stability": "stable",
     "authors": [
         {
-            "name": "Iury Gomes de Oliveira",
-            "email": "iury.oliveira@ifto.edu.br",
-            "homepage": "https://github.com/iurygdeoliveira",
+            "name": "Alana Rebeca de Maria",
+            "email": "lana.monteeiro@gmail.com",
+            "homepage": "https://github.com/Lana-Monteiro",
             "role": "Developer"
         }
     ],

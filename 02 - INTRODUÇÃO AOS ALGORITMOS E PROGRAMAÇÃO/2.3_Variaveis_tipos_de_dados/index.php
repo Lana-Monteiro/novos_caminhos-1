@@ -7,13 +7,13 @@ PHPClassName('Aula 2.3 - Variáveis e tipos de dados');
 */
 PHPClassSession('VARIÁVEIS', __LINE__);
 
-$firstName = "Iury";
-$lastName = "Oliveira";
+$firstName = "Lana";
+$lastName = "Monteiro";
 
 echo "<h3> $firstName $lastName </h3>";
 
 
-$userEmail = "<p> iury.oliveira@ifto.edu.br</p>";
+$userEmail = "<p> lana.monteeiro@gmail.com</p>";
 echo $userEmail;
 
 PHPClassSession('BOLEANO', __LINE__);

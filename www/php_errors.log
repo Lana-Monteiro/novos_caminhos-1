@@ -1,0 +1,54 @@
+[29-Sep-2020 22:09:54 America/Araguaina] PHP Notice:  Undefined variable: start in /usr/share/nginx/html/index.php on line 20
+[29-Sep-2020 22:09:54 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 22:09:54 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[29-Sep-2020 22:09:54 America/Araguaina] PHP Warning:  A non-numeric value encountered in /usr/share/nginx/html/index.php on line 20
+[29-Sep-2020 22:09:54 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 22:09:54 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[29-Sep-2020 22:09:54 America/Araguaina] PHP Notice:  Undefined variable: start in /usr/share/nginx/html/index.php on line 21
+[29-Sep-2020 22:09:54 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 22:09:54 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[29-Sep-2020 22:10:00 America/Araguaina] PHP Notice:  Undefined variable: start in /usr/share/nginx/html/index.php on line 20
+[29-Sep-2020 22:10:00 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 22:10:00 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[29-Sep-2020 22:10:00 America/Araguaina] PHP Warning:  A non-numeric value encountered in /usr/share/nginx/html/index.php on line 20
+[29-Sep-2020 22:10:00 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 22:10:00 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[29-Sep-2020 22:10:00 America/Araguaina] PHP Notice:  Undefined variable: start in /usr/share/nginx/html/index.php on line 21
+[29-Sep-2020 22:10:00 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 22:10:00 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[29-Sep-2020 22:10:35 America/Araguaina] PHP Notice:  Undefined variable: start in /usr/share/nginx/html/index.php on line 20
+[29-Sep-2020 22:10:35 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 22:10:35 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[29-Sep-2020 22:10:35 America/Araguaina] PHP Warning:  A non-numeric value encountered in /usr/share/nginx/html/index.php on line 20
+[29-Sep-2020 22:10:35 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 22:10:35 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[29-Sep-2020 22:10:35 America/Araguaina] PHP Notice:  Undefined variable: start in /usr/share/nginx/html/index.php on line 21
+[29-Sep-2020 22:10:35 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 22:10:35 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[29-Sep-2020 22:10:36 America/Araguaina] PHP Notice:  Undefined variable: start in /usr/share/nginx/html/index.php on line 20
+[29-Sep-2020 22:10:36 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 22:10:36 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[29-Sep-2020 22:10:36 America/Araguaina] PHP Warning:  A non-numeric value encountered in /usr/share/nginx/html/index.php on line 20
+[29-Sep-2020 22:10:36 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 22:10:36 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[29-Sep-2020 22:10:36 America/Araguaina] PHP Notice:  Undefined variable: start in /usr/share/nginx/html/index.php on line 21
+[29-Sep-2020 22:10:36 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 22:10:36 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[29-Sep-2020 22:13:14 America/Araguaina] PHP Notice:  Undefined variable: start in /usr/share/nginx/html/index.php on line 20
+[29-Sep-2020 22:13:14 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 22:13:14 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[29-Sep-2020 22:13:14 America/Araguaina] PHP Warning:  A non-numeric value encountered in /usr/share/nginx/html/index.php on line 20
+[29-Sep-2020 22:13:14 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 22:13:14 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[29-Sep-2020 22:13:14 America/Araguaina] PHP Notice:  Undefined variable: start in /usr/share/nginx/html/index.php on line 21
+[29-Sep-2020 22:13:14 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 22:13:14 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[29-Sep-2020 22:13:14 America/Araguaina] PHP Notice:  Undefined variable: start in /usr/share/nginx/html/index.php on line 20
+[29-Sep-2020 22:13:14 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 22:13:14 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[29-Sep-2020 22:13:14 America/Araguaina] PHP Warning:  A non-numeric value encountered in /usr/share/nginx/html/index.php on line 20
+[29-Sep-2020 22:13:14 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 22:13:14 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[29-Sep-2020 22:13:14 America/Araguaina] PHP Notice:  Undefined variable: start in /usr/share/nginx/html/index.php on line 21
+[29-Sep-2020 22:13:14 America/Araguaina] PHP Stack trace:
+[29-Sep-2020 22:13:14 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
