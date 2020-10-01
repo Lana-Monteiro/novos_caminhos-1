@@ -52,3 +52,7 @@
 [29-Sep-2020 22:13:14 America/Araguaina] PHP Notice:  Undefined variable: start in /usr/share/nginx/html/index.php on line 21
 [29-Sep-2020 22:13:14 America/Araguaina] PHP Stack trace:
 [29-Sep-2020 22:13:14 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[30-Sep-2020 20:21:50 America/Araguaina] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[30-Sep-2020 20:21:50 America/Araguaina] PHP Fatal error:  Unknown: Failed opening required '/usr/share/nginx/html/index.php' (include_path='.:/usr/local/lib/php') in Unknown on line 0
+[30-Sep-2020 20:29:00 America/Araguaina] PHP Parse error:  syntax error, unexpected '=' in /usr/share/nginx/html/2.2_Comandos_de_saída/index.php on line 2
+[30-Sep-2020 20:29:11 America/Araguaina] PHP Parse error:  syntax error, unexpected '=' in /usr/share/nginx/html/2.2_Comandos_de_saída/index.php on line 2
